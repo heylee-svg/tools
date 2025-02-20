@@ -1,0 +1,17 @@
+androidx   #https://github.com/androidx/androidx.git
+architecture-components-samples  #https://github.com/android/architecture-components-samples.git
+architecture-samples  https://github.com/android/architecture-samples.git
+basic-android-kotlin-compose-training-dessert-release
+codelab-android-workmanager  https://github.com/android/codelab-android-workmanager.git 
+codelab-kotlin-coroutines   #https://github.com/android/codelab-kotlin-coroutines.git 
+connectivity-samples   https://github.com/android/connectivity-samples.git 
+development-refs_heads_main-samples
+glide
+glide4_16
+material-components-android
+ExoPlayer
+ndk-samples
+okhttp
+retrofit
+user-interface-samples  https://github.com/android/user-interface-samples.git
+views-widgets-samples https://github.com/android/views-widgets-samples.git 
